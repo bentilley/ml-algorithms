@@ -24,6 +24,7 @@ So far I have implemented the following algorithms:
 
 #### TODO
 
+- Visualise the output for multilinear regression
 - Decision Trees (ID3)
 - Support Vector Machines
 - Logistic Regression
