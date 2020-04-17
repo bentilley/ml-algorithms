@@ -20,7 +20,8 @@ jupyter notebook
 So far I have implemented the following algorithms:
 
 - Linear Regression with one variable using gradient descent;
-- Multi-variable Linear Regression using gradient descent.
+- Multi-variable Linear Regression using gradient descent;
+- K-means Clustering using Euclidean distance metric.
 
 #### TODO
 
